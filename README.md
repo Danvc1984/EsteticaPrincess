@@ -2,6 +2,6 @@
 
 ## Simple website for a small hair cutting business.
 
-*Created with HTML, SASS and Javascript.*
+_Created with HTML, SASS and Javascript._
 
-Intended to be a reusable scafolding for other small scale or JAM stack projects.
+Intended to be a reusable scaffolding for other small scale or JAM stack projects.

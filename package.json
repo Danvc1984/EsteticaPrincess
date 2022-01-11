@@ -1,0 +1,25 @@
+{
+  "name": "EsteticaPrincess",
+  "version": "1.0.0",
+  "description": "*Created with HTML, SASS and Javascript.*",
+  "main": "index.js",
+  "scripts": {
+    "css": "node-sass --include-path scss styles.scss css/styles.css",
+    "watch": "nodemon -e scss -x npm run css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danvc1984/EsteticaPrincess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danvc1984/EsteticaPrincess/issues"
+  },
+  "homepage": "https://github.com/Danvc1984/EsteticaPrincess#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
